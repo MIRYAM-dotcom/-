@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './office.css';
+import './office2.css';
 //עדכון שמות התוויות
 const Office = () => {
   const [username, setUsername] = useState('');
